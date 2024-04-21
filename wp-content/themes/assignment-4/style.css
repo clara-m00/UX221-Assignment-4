@@ -1,0 +1,21 @@
+/*
+Theme Name:     Assignment 4
+Description:    A theme for UX221 Assignment 4
+Author:         Clara Mendiola
+Template:       twentytwentythree
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+body {
+	background-color: #CFE3CA;
+	color: #0E3112;
+}
+
+header {
+	color: #143436;
+}
+
+h1 {
+	color: #143436;
+}
